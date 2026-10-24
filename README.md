@@ -381,13 +381,13 @@ My approach combines automated tooling with manual analysis — the most interes
 ## 💼 Experience
 
 ```text
-2026 ─┬─ Senior VAPT Engineer, Cyenetic Solutions ─────────────── Present
+2026 ─┬─ Senior VAPT Analyst (Senior Penetration Tester) , Cyenetic Solutions ─────────────── Present
       │  Vulnerability assessment & penetration-testing delivery
       │
 2025 ─┼─ Founder & Lead Developer, HR-Tech ─────────────────────── Present
       │  Creator of DevSecKit
       │
-2024 ─┼─ Senior Penetration Tester, Skye8 ──────────────────────── Present
+2024 ─┼─ Penetration Tester, Skye8 ──────────────────────── February 2026
       │  Web · API · Mobile · Red Team · Exploit Development
       │  incl. PACE7 (IoT Engineer, SkyeForge Innovation Team)
       │
@@ -478,6 +478,7 @@ I'm particularly interested in the space where **low-level engineering meets off
 <a href="https://maimoharris.onrender.com"><img src="https://img.shields.io/badge/Portfolio-maimoharris.onrender.com-111827?style=for-the-badge"/></a>
 <a href="https://docconver.me"><img src="https://img.shields.io/badge/Project-DocConvert-111827?style=for-the-badge"/></a>
 <a href="https://devseckit.lovable.app"><img src="https://img.shields.io/badge/Project-DevSecKit-111827?style=for-the-badge"/></a>
+<a href="https://dracos.shop"><img src="https://img.shields.io/badge/Project-Dracos-111827?style=for-the-badge"/></a>
 
 <br/><br/>
 
